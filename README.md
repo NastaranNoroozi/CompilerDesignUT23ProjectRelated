@@ -43,4 +43,18 @@ The original Understand tool is a commercial code analysis tool. The analysis sc
    ```bash
    python api.py
    ```
+### Result
+
+   [![NNUnderstand-Screenshot.png](https://i.postimg.cc/nc7qsKzw/NNUnderstand-Screenshot.png)](https://postimg.cc/jLxDm7yz)
+
+### SymbolTables
+
+In order to preview the tables on mac I used RazorSQL and nothing special is needed to download this app, you just need to learn to work with it.
+
+[![NNSymbol-Tables.png](https://i.postimg.cc/KY9TXJq4/NNSymbol-Tables.png)](https://postimg.cc/5HCyLqMM)
+
+
+   ## Comparison
+
+While both tools aim to analyze the codebase, there are differences in the reported classes.
    
