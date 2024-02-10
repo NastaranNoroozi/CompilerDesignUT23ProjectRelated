@@ -45,7 +45,11 @@ The original Understand tool is a commercial code analysis tool. The analysis sc
    ```
 ### Result
 
-   [![NNUnderstand-Screenshot.png](https://i.postimg.cc/nc7qsKzw/NNUnderstand-Screenshot.png)](https://postimg.cc/jLxDm7yz)
+[![mypicforhw5p1.png](https://i.postimg.cc/52ZZwXbx/mypicforhw5p1.png)](https://postimg.cc/pmJGvXm7)
+
+[![mypicforhw5p2.jpg](https://i.postimg.cc/rF7WcTqd/mypicforhw5p2.jpg)](https://postimg.cc/sv919tQy)
+
+[![mypicforhw5p3.png](https://i.postimg.cc/Gpd4hhVp/mypicforhw5p3.png)](https://postimg.cc/rDZVfc86)
 
 ### SymbolTables
 
